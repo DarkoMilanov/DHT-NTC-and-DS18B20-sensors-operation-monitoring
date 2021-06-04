@@ -1,0 +1,22 @@
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.exe.config
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.exe
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.pdb
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.csprojResolveAssemblyReference.cache
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.Properties.Resources.resources
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.csproj.GenerateResource.Cache
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.exe
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.pdb
+c:\users\darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.KUI.resources
+C:\Users\Darko\documents\visual studio 2013\Projects\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\mysql.data.dll
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.exe.config
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.exe
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.pdb
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.csprojResolveAssemblyReference.cache
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.KUI.resources
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.Properties.Resources.resources
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.csproj.GenerateResource.Cache
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.exe
+C:\Users\Darko\Desktop\KUI-Darko Milanovic\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.pdb
+C:\Users\Darko\Desktop\DarkoMilanovic1581\PROJEKAT_KUI2019\PROJEKAT_KUI2019\bin\Debug\PROJEKAT_KUI2019.exe.config
+C:\Users\Darko\Desktop\DarkoMilanovic1581\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.exe
+C:\Users\Darko\Desktop\DarkoMilanovic1581\PROJEKAT_KUI2019\PROJEKAT_KUI2019\obj\Debug\PROJEKAT_KUI2019.pdb
